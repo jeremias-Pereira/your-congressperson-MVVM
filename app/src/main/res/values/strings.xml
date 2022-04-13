@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Seus Deputados</string>
+    <string name="contentDescriptionImage">foto do Parlamentar</string>
+    <string name="detail">Detalhes</string>
+    <string name="iconDetails">Exibir Detalhes</string>
+    <string name="gabinete">Gabinete</string>
+    <string name="socialMedia">Redes Sociais</string>
+    <string name="toolbar_title">Detalhes</string>
+    <string name="home_toolbar_title">Seus Parlamentares</string>
+    <string name="not_connection">Sem Conexao com Internet</string>
+    <string name="exit">exit</string>
+    <string name="sever_error">Estamos Com Problemas No Servidor Tente Novamente Mais Tarde</string>
+
+    <string-array name="social_media_prefix">
+        <item>"https://www.facebook.com/"</item>
+        <item>"https://www.instagram.com/"</item>
+        <item>"https://www.twitter.com/"</item>
+        <item>"https://www.youtube.com/"</item>
+    </string-array>
+</resources>
